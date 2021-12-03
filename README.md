@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **MERN stack**
 
 - 📫 How to reach me **yashgarg1402@gmail.com**
-- <h3>Portfolio</h3>
+- <h3>Portfolio</h3><a href="https://yash-garg-yashgarg1402-gmailcom.vercel.app/" target="blank" </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
