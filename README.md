@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **yashgarg1402@gmail.com**
 
-- 👨‍💻 All of my projects are available at  [My Portfolio](https://yash-garg-yashgarg1402-gmailcom.vercel.app/)
+- 👨‍💻 All of my projects are available at  [My Portfolio](https://myportfolio-nu-beryl.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
