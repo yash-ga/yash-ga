@@ -1,6 +1,8 @@
 <!--  <h1 align="center">Hi 👋, I'm Yash Garg</h1>
 <h3 align="center">An ardent full stack web developer from India.</h3> -->
-![Screenshot_8](https://user-images.githubusercontent.com/87422053/144638715-e0e13679-5845-4937-a817-86d1ab181eeb.png)
+<!-- ![Screenshot_8](https://user-images.githubusercontent.com/87422053/144638715-e0e13679-5845-4937-a817-86d1ab181eeb.png) -->
+
+![Screenshot (169)](https://user-images.githubusercontent.com/87422053/154833843-9b313ee8-b889-4b0a-8db2-70d5164c4850.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-ga&label=Profile%20views&color=0e75b6&style=flat" alt="yash-ga" /> </p>
 
